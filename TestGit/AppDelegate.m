@@ -18,6 +18,7 @@
     // Override point for customization after application launch.
     //测试git
     //更新测试
+    //账号测试
     return YES;
 }
 
